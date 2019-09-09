@@ -7,7 +7,6 @@ print("\n")
 print("ENTER PATH TO MOVE FILES TO")
 mov_to=input()
 MAIN=mov_to
-#DIRS = r'C:\Users\Bwana\Desktop\.netv4'
 print("ENTER PATH TO MOVE FILES FROM")
 DIRS = input()
 for root, subdirs, files in os.walk(DIRS):
