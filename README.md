@@ -24,7 +24,7 @@ $./FILE BULLDOZER.py
 To run this project, locally in windows run :
 
 ```
-> Install python 3.7 with pip installer found here "https://www.python.org/"
-> pip install pyinstaller
-> pyinstaller --onefile "FILE BULLDOZER.py"
-In the dist e.g " E:\Bwana\dist\FILE BULLDOZER.exe"file directory double click 'FILE BULLDOZER.exe' to run the executable
+$ Install python 3.7 with pip installer found here "https://www.python.org/"
+$ pip install pyinstaller
+$ pyinstaller --onefile "FILE BULLDOZER.py"
+$ In the dist e.g " E:\Bwana\dist\FILE BULLDOZER.exe"file directory double click 'FILE BULLDOZER.exe' to run the executable
