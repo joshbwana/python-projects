@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup in linux)
-
+* [Setup](#setup in windows)
 
 ## General info
 This project is a simple python script for moving files from root directory and its subdirectory to a directory of your choice. The script runs in linux and windows machine with python 3.7 installed on them.
@@ -14,17 +14,18 @@ Project is created with:
 
 	
 ## Setup in linux
-To run this project, locally in linux run :
+To run this project, locally in linux:
 
 ```
 $ chmod u+x FILE BULLDOZER.py
 $./FILE BULLDOZER.py
 
 ## Setup in windows
-To run this project, locally in windows run :
+To run this project, locally in windows:
 
 ```
-$ Install python 3.7 with pip installer found here "https://www.python.org/"
+$ Install python 3.7 with pip installer found here:
+"https://www.python.org/"
 $ pip install pyinstaller
 $ pyinstaller --onefile "FILE BULLDOZER.py"
-$ In the dist e.g " E:\Bwana\dist\FILE BULLDOZER.exe"file directory double click 'FILE BULLDOZER.exe' to run the executable
+$ In the dist directory double click 'FILE BULLDOZER.exe' to run the executable
