@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup in linux)
-* [Setup](#setup in windows)
+
 
 ## General info
 This project is a simple python script for moving files from root directory and its subdirectory to a directory of your choice. The script runs in linux and windows machine with python 3.7 installed on them.
